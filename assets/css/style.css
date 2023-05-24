@@ -1,0 +1,45 @@
+*
+{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header
+{
+    background-color: cornflowerblue;
+}
+
+footer
+{
+    font-weight: bold;
+    margin: auto;
+    width: 50%;
+}
+
+nav
+{
+    background-color: white;
+    display: inline;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+#Heading
+{
+    background-color: cornflowerblue;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+#Image
+{
+    margin: auto;
+    width: 50%;
+}
+
+#Form
+{
+    margin: auto;
+    width: 50%;
+}
